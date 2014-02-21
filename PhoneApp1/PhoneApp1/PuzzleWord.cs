@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace PhoneApp1
 {
-    //test adding a comment
     public class PuzzleWord
     {
         public string Question { get; private set; }
